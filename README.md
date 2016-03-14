@@ -57,3 +57,4 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Sarah Todd (2016)
